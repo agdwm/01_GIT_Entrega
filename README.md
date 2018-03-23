@@ -1,5 +1,10 @@
 ## Git - Práctica 1
 ---
+#### 0. Enunciado de las prácticas:
+Enlace a la **práctica 1** del curso de Git, Github y SourceTree : [Práctica 1](https://github.com/agdwm/01_GIT_Entrega/practica_1_curso_de_git_gitHub_y_sourcetree.pdf)
+
+Enlace a la **práctica 2** del curso de Git, Github y SourceTree : [Práctica 2](https://github.com/agdwm/01_GIT_Entrega/practica_2_curso_de_git_gitHub_y_sourcetree.pdf)
+
 #### 1. ¿Qué comando utilizaste en el paso 11? ¿Por qué?
 * **git reset --hard HEAD~1**
 
